@@ -1,0 +1,11 @@
+# S-DES算法最小依赖包
+# 只包含对项目有实际价值的依赖
+
+# 性能分析和可视化（可选）
+numpy>=1.19.0
+matplotlib>=3.3.0
+
+# 测试框架（用于验证算法正确性）
+pytest>=6.0.0
+
+# 安装命令: pip install -r requirements-minimal.txt
